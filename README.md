@@ -1,4 +1,4 @@
-# Linear-regression-for-face-recoginzing
+# Linear-regression-for-face-recognition
 (Program finished years before)
 Use linear regression classifier in face recognize
 Training data and testing data are from the mat file
